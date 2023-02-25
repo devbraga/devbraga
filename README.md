@@ -1,42 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">    
-</head>
-
-<body>
-<h1>Fabio Braga</h1>
-<h3>Sejam Bem Vindos ao meu Github</h3>
-<hr>
-<h2>Perfil Pessoal<h2>
-<p>
-📔 Estudante de Web Developer
-</p>
-<p>💼 A procura de uma oportunidade de emprego
-</p>
-<hr>
-<h2>Meus Contatos<h2>
-<p>📧 fabiodev.contato@gmail.com</p>
-<p><a href="https://www.linkedin.com/in/fabio-braga-b78649263/" target="_blank">Linkedin Fabio Braga</a>
-</p>
-<hr>
-<p>
-<h2>GitHub Stats</h2>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=devbraga&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=devbraga&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=devbraga&show_icons=true" />
-</picture>
-</p>
-</body>
-</html>
-
-
-
+# Fabio Braga
+- 🌎  Nascido e Morando em São José dos Campos-SP 🇧🇷
+- 💼  A procura de uma oportunidade de emprego
+- 📧  fabiodev.contato@gmail.com
+## Perfil Pessoal
+- Profissional técnico com mais de 5 anos de experiência
+em transição de carreira para área de desenvolvimento de 
+site.
+- Habilidade em aprender tecnologias novas
+- Respeito a hierarquia
+- Trabalho em equipe
+## Certificados
+- 💻 Lógica de Programação
+- 💻 MySQL
+- 💻 LibreOffice Calc
+- 💻 Montagem e Manutenção de Computadores
+## Habilidades 
+<div>
+     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </a>
+     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    </a>    
+     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    </a>
+</div>
